@@ -243,7 +243,7 @@ ___
 
 Теперь вы подключились к базе данных и можете выполнять запросы. На скриншоте ниже в качестве примера выполнен запрос версии программы:
 
-[![SQL-shell.png](https://i.postimg.cc/GtKyPDSW/SQL-shell.png)](https://postimg.cc/SYXRkn4d)
+[![SQL-shell.png](https://i.postimg.cc/DZFSBKMV/SQL-shell.png)](https://postimg.cc/948XQs21)
 
 ___
 ## Установка DBeaver
