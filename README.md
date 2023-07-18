@@ -204,7 +204,7 @@ ___
 [![14.png](https://i.postimg.cc/CxgkDv2Z/14.png)](https://postimg.cc/F7TYXxNm)
 
 ___
-## Установка PostreSQL
+## Установка PostgreSQL
 1. Для установки необходимо перейти на [официальный сайт](https://www.postgresql.org/download/) и скачать подходящую версию (лучше всего использовать свежую версию, но не бета).
 
 [![install-1.png](https://i.postimg.cc/tC4rK4kR/install-1.png)](https://postimg.cc/dDgmdvgg)
