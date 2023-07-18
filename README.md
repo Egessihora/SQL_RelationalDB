@@ -137,7 +137,17 @@ ___
 
    *Материал о порядке выполнения SQL-запроса взят с сайта [dev-notes.ru](https://www.dev-notes.ru/articles/devops/understand-the-sql-execution-order/)*
 ___
- ⬆️ В файлах мои решения задач на курсе Stepik [Интерактивный тренажёр по SQL](https://stepik.org/course/63054/syllabus)
+ ⬆️ [Установка MySQL](https://github.com/Egessihora/SQL_RelationalDB_Stepik/blob/master/Установка%20MySQL.md)
+ 
+ ⬆️ [Установка PostgreSQL](https://github.com/Egessihora/SQL_RelationalDB_Stepik/blob/master/Установка%20PostgreSQL.md)
+ 
+ ⬆️ [Установка DBeaver](https://github.com/Egessihora/SQL_RelationalDB_Stepik/blob/master/Установка%20DBeaver.md)
+ 
+ ⬆️ Чуть позже здесь будут мои решения задач с пояснениями на курсе Stepik [Интерактивный тренажёр по SQL](https://stepik.org/course/63054/syllabus) Ждите)
+ 
+
+ Продолжение следует...
+ 
 
  Информация, размещённая в статье, собрана с различных интернет-ресурсов.
 ___
