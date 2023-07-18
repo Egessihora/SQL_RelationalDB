@@ -137,6 +137,8 @@ ___
 
    *Материал о порядке выполнения SQL-запроса взят с сайта [dev-notes.ru](https://www.dev-notes.ru/articles/devops/understand-the-sql-execution-order/)*
 ___
- ⬆️ В файлах мои решения задач на курсе Stepik "Интерактивный тренажёр по SQL"
+ ⬆️ В файлах мои решения задач на курсе Stepik [Интерактивный тренажёр по SQL](https://stepik.org/course/63054/syllabus)
+
+ Информация, размещённая в статье, собрана с различных интернет-ресурсов.
 ___
 [![7bd55febf27d2369d7e1aa8347a9eb71.png](https://i.postimg.cc/vHPbtb9J/7bd55febf27d2369d7e1aa8347a9eb71.png)](https://postimg.cc/QHW2XLfm)
