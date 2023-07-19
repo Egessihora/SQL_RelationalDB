@@ -430,6 +430,7 @@ SELECT title, author, price          /*выбери столбцы title, author
 FROM book                            /*из таблицы book*/
 /*выбери только те строки, в которых удовлетворяются оба условия: (author = 'Булгаков М.А.' ИЛИ author = 'Есенин С.А.') И price больше 600*/
 WHERE (author = 'Булгаков М.А.' OR author = 'Есенин С.А.') AND price > 600;
+```
 
 **Пояснение**:
 
