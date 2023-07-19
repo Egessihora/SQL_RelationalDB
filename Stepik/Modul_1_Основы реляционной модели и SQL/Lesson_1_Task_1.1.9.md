@@ -1,4 +1,4 @@
-### Task 1.1.9
+### Task 1.1.9 [задание на stepik](https://stepik.org/lesson/297508/step/9?unit=279268)
 Занесите новую строку в таблицу **book** (текстовые значения (тип **VARCHAR**) заключать либо в двойные, либо в одинарные кавычки):
 
 | book_id | title              | author        | price  | amount |
