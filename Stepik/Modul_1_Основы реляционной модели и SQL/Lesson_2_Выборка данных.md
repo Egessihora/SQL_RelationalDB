@@ -26,7 +26,9 @@ SELECT * FROM ИМЯ_ТАБЛИЦЫ  /*для выбора всех столбц
 *Запрос*:
 
 ```SQL
-SELECT * FROM book;
+SELECT * FROM book;             /* вывести всю информацию из таблицы book */
 ```
 
 *Результат*:
+
+[![6.png](https://i.postimg.cc/50NVMBzg/6.png)](https://postimg.cc/WDKKGJXq)
