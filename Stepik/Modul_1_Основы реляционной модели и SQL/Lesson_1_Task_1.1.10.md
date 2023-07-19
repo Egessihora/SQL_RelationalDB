@@ -1,5 +1,4 @@
-## Task 1.1.9
-
+### Task 1.1.9 [задание на stepik](https://stepik.org/lesson/297508/step/9?unit=279268)
 Занесите три последние записи в таблицу **book**,  первая запись уже добавлена на предыдущем шаге:
 
 [![5.png](https://i.postimg.cc/jq4t3p7R/5.png)](https://postimg.cc/Jt0fGdxF)
