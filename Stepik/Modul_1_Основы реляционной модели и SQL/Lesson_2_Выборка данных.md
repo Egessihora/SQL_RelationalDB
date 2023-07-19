@@ -140,7 +140,7 @@ ___
 
 ```SQL
 SELECT title, author, price, amount,      /*выбрать title, author, price, amount,*/
-     price * amount AS total              /*произведение цены на количество как total*/
+       price * amount AS total            /*произведение цены на количество как total*/
 FROM book;                                /*из таблицы bool*/
 ```
 
