@@ -294,10 +294,10 @@ Affected rows: 5
 *Запрос*:
 
 ```SQL
-SELECT title, amount, price,                                                                        /*выбрать title, amount, price*/
-       ROUND(IF(amount < 4, price * 0.5, IF(amount < 11, price * 0.7, price * 0.9)), 2) AS sale,    /*в этой строке мы вычисляем, округляем скидку и прописываем название столбца*/        IF(amount < 4, 'скидка 50%',                                                                 /*в этой строке формируем новый столбец с указанием размера скидки*/
+SELECT title, amount, price,                                                                      /*выбрать title, amount, price*/
+       ROUND(IF(amount < 4, price * 0.5, IF(amount < 11, price * 0.7, price * 0.9)), 2) AS sale,  /*в этой строке мы вычисляем, округляем скидку и прописываем название столбца*/          IF(amount < 4, 'скидка 50%',                                                               /*в этой строке формируем новый столбец с указанием размера скидки*/
           IF(amount < 11, 'скидка 30%', 'скидка 10%')) AS Ваша_скидка
-FROM book;                                                                                          /*Из таблицы book*/
+FROM book;                                                                                        /*Из таблицы book*/
 ```
 
 **Пояснение к вычислениям скидки**:
