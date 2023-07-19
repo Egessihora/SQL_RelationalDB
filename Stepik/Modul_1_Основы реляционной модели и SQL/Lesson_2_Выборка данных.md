@@ -351,9 +351,9 @@ ___
 *Запрос*:
 
 ```SQL
-SELECT title, price    /*выбери title, price*/
+SELECT title, price    /*выбери столбцы title, price*/
 FROM book              /*из таблицы book*/
-WHERE price < 600;     /*выбери только те, где цена(price) меньше 600*/
+WHERE price < 600;     /*выбери только те строки, где цена(price) меньше 600*/
 ```
 
 *Результат*:
@@ -372,9 +372,9 @@ Affected rows: 2
 *Запрос*:
 
 ```SQL
-SELECT title, author, price * amount AS total    /*выбери title, author, умножь цену(price) на количество(amount) и назови новый столбец как total*/
+SELECT title, author, price * amount AS total    /*выбери столбцы title, author, умножь цену(price) на количество(amount) и назови новый столбец как total*/
 FROM book                                        /*из таблицы book*/
-WHERE price * amount > 4000;                     /*выбери только те, где результат цены(price), умноженной на количество(amount) больше 4000*/
+WHERE price * amount > 4000;                     /*выбери только те строки, где результат цены(price), умноженной на количество(amount) больше 4000*/
 ```
 
 **Пояснение:**
