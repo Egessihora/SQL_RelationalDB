@@ -22,3 +22,7 @@ CREATE TABLE book(                              /*Создать таблицу 
     price DECIMAL(8, 2),                        /*Столбец price число до 8 символов 2 из них дробь*/
     amount INT);                                /*Столбец amount целое число*/
 ```
+
+**Результат:**
+
+Affected rows: 0
