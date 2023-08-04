@@ -9,8 +9,8 @@
 
 ```SQL
 SELECT title, name_genre, price
-FROM
-    book INNER JOIN genre
+FROM book
+    INNER JOIN genre
     ON book.genre_id = genre.genre_id
     AND amount > 8
     ORDER BY price DESC;
@@ -19,7 +19,8 @@ FROM
 Перевод на человеческий:
 ```SQL
 /*выбери столбцы title, name_genre, price*/
-/*из таблицы book, соединённой с таблицей genre*/
+/*из таблицы book*/
+/*соединённой с таблицей genre*/
 /*выбери только те строки, где удовлетворяются оба условия: */
 /*- book.genre_id = genre.genre_id*/
 /*- количество > 8*/
