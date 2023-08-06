@@ -398,7 +398,7 @@ SELECT * FROM Employee;
 +--------+----------+--------+
 4 rows IN SET (0.00 sec)
 
-mysql> SELECT * FROM Department;
+SELECT * FROM Department;
 +---------+-----------+
 | dept_id | dept_name |
 +---------+-----------+
