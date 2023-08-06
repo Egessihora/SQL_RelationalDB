@@ -25,4 +25,6 @@ CREATE TABLE book(                              /*Создать таблицу 
 
 **Результат:**
 
+```SQL
 Affected rows: 0
+```
