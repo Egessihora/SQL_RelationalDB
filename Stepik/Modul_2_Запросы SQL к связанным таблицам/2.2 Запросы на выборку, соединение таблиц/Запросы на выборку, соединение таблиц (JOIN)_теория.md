@@ -8,7 +8,7 @@
 
 [![image.jpg](https://i.postimg.cc/5ygVsGfv/image.jpg)](https://postimg.cc/hQX6j2zP)
 
-Круги Венна
+##### Круги Венна
 
 ## Соединение INNER JOIN
 
