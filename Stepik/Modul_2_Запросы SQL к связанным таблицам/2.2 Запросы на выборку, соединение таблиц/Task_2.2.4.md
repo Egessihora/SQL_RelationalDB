@@ -49,6 +49,12 @@ DATE_ADD('2020-02-02', INTERVAL 45 DAY) возвращает 18 марта 2020 
 DATE_ADD('2020-02-02', INTERVAL 6 MONTH) возвращает 2 августа 2020 года
 ```
 
+***Еще вариант для postgresql***:
+
+```SQL
+to_date('2020-01-01', 'yyyy-mm-dd') + cast(floor(random() * 365) as int)
+```
+
 **Решение:**
 
 ```SQL
