@@ -94,7 +94,7 @@ Affected rows: 4
 
 В результате всего запроса
 
-``````SQL
+```SQL
 SELECT author, title, price          
 FROM book                           
 WHERE price -                        
