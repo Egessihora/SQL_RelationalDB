@@ -126,7 +126,7 @@ GROUP BY amount;
      применяем оператор ```HAVING```:
 
 ```SQL
-SELECT amount, COUNT(*)
+SELECT amount
 FROM book
 GROUP BY amount
 HAVING COUNT(*) = 1;
