@@ -9,7 +9,7 @@ SELECT author, title, price          /*выбери столбцы author, title
 FROM book                            /*из таблицы book*/
 WHERE price -                        /*выбери только те строки, в которых разница между ценой и результатом вложенного запроса меньше или равна 150*/
       (
-      SELECT MIN(price)              /*высли минимальное значение в столбце price*/
+      SELECT MIN(price)              /*вычисли минимальное значение в столбце price*/
       FROM book                      /*из таблицы book*/
       ) <= 150
 ORDER BY price;                      /*отсортируй по столбцу price*/
