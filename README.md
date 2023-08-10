@@ -143,7 +143,7 @@ ___
  
  ⬆️ [Установка DBeaver](https://github.com/Egessihora/SQL_RelationalDB_Stepik/blob/master/Установка%20DBeaver.md)
  
- ⬆️ [Решения практических задач с пояснениями](https://github.com/Egessihora/SQL_RelationalDB_Stepik/tree/master/Stepik/Modul_1_Основы%20реляционной%20модели%20и%20SQL) на курсе Stepik [Интерактивный тренажёр по SQL](https://stepik.org/course/63054/syllabus)
+ ⬆️ [Решения практических задач с пояснениями (подбробный разбор по косточкам)](https://github.com/Egessihora/SQL_RelationalDB_Stepik/tree/master/Stepik/Modul_1_Основы%20реляционной%20модели%20и%20SQL) на курсе Stepik [Интерактивный тренажёр по SQL](https://stepik.org/course/63054/syllabus)
  
 *Теоретический материал добавлен мною также из других источников*
  ___
